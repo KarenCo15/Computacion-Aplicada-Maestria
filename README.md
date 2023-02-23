@@ -18,3 +18,8 @@
 - p12-volumen-cilindro
 - p13-calculo-tiempo
 - p14-numero-suerte
+## Actividad 3
+- p15-verifica-numero
+- p16-verifica-suma
+- p17-convertir-temperatura
+- p18-paga-trabajador
