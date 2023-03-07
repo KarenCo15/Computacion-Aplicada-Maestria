@@ -36,11 +36,15 @@
 - p27-calculo-de-notas
 - p28-aceptar-estudiante-v2
 ## Actividad 5
-- p29 - números-1-100
-- p30 - números-100-1
-- p31 - números-200-10-10
-- p32 - numeros-suma-100
-- p33 - conteo-números
-
+- p29-números-1-100
+- p30-números-100-1
+- p31-números-200-10-10
+- p32-numeros-suma-100
+- p33-conteo-números
+## Actividad 6
+- p34-tabla-conversion
+- p35-conjetura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
 
 
