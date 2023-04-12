@@ -61,8 +61,23 @@
 - p47-arriba-abajo
 - p48-suma-pares-impares
 - p49-suma-numeros
+## Actividad 8
 - p50-factorial
 - p51-tabla-multiplicar
 - p52-tablas-multiplicar
 - p53-piramide-caracter
 - p54-factorial-numeros
+## Tarea 4
+- p55-numeros-10-en-10
+- p56-suma-pares-1-n
+- p57-secuencia-numeros-1
+- p58-secuencia-numeros-2
+- p59-secuencia-terminos-1
+## Actividad 9
+- p60-acceder-lista
+- p61-cambiar-lista
+- p62-agregar-lista
+- p63-remover-lista
+- p64-iterar-lista
+
+
