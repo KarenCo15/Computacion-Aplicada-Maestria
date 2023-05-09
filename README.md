@@ -99,6 +99,9 @@
 - p78-personas
 - p79-numeros
 ## Actividad 12
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-y-edades
 
 ## Actividad 13 
 - p83-procesar-pizza

@@ -26,6 +26,6 @@ for m,c in notas.items():
 
 print()
 print (s)
-print (s/len(notas))
+print (s/ len(notas))
 
 

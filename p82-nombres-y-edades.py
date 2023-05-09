@@ -12,8 +12,8 @@ print(datos, len(datos))
 s = 0
 for n,e in datos.items():
     print(f"{n:<20} - {e:2}")
-    s = s + e
-
+    s =s+e
+    
 print()
 print(s)
 print(s/len(datos))
