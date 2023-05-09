@@ -98,6 +98,11 @@
 ## Tarea 6
 - p78-personas
 - p79-numeros
+## Actividad 12
 
+## Actividad 13 
+- p83-procesar-pizza
+- p84-lista-dicc-auto
+- p85-lista-dicc-estudiante
 
 
