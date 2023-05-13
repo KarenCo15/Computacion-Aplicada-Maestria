@@ -108,4 +108,11 @@
 - p84-lista-dicc-auto
 - p85-lista-dicc-estudiante
 
+## Tarea 7
+- p86-dia-semana
+- p87-numero-romano
+- p88-contar-caracteres
+
+## Segundo examen Parcial
+- p89-segundo-examen-parcial
 
